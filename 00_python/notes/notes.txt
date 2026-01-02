@@ -1,0 +1,4 @@
+class               - class name
+  objects             - cup, sugar, milk
+  properties          - cup color, sugar amount, milk level
+  methods             - actions -> sip(), stir()
