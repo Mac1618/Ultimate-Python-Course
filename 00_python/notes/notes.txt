@@ -2,3 +2,17 @@ class               - class name
   objects             - cup, sugar, milk
   properties          - cup color, sugar amount, milk level
   methods             - actions -> sip(), stir()
+
+
+why learning python?
+  - easy to learn
+  - compatible on windows, mac, linux
+  - readable codes
+  - productive friendly and not verbose like java or c++
+  - standard library -> a lot of open source and free
+  - multi-use
+
+
+requirement
+  - download python
+  - download vscode

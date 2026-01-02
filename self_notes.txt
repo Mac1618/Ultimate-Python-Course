@@ -1,0 +1,8 @@
+Github
+  git config --list                                 - show config properties
+  
+  git config user.name "Your name"                  - set name value
+  git config user.email "email@test.com"            - set email value
+
+  git config --show-origin user.name                - active name
+  git config --show-origin user.email               - active email
