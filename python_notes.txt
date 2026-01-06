@@ -1,0 +1,11 @@
+PEP 8 - Style Guide for Python code               - PEP 8 or Python Enhancement Proposal 8
+  - 4 spaces, never tabs
+  - use meaningful names
+  - use formatters
+  - etc...                                        - https://peps.python.org/pep-0008/
+
+
+ZEN                          - pythonic way of writing code
+  - python                      - flag
+  - import this                 - to see the poem
+  - poem meaningf               - to write code as simple as possible

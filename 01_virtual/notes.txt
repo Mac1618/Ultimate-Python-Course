@@ -1,0 +1,34 @@
+--------- Folder Structure ----------
+  chai_shop/                        - root Folder
+    - run.py                          - modules where code is written
+    - chai.py                         - modules where code is written
+    - processing/                     - can just be called files and Folders (no name)
+    - utils/                          - packages
+        - __init__.py                   - this flag it as a packages
+
+
+  namespace and scope (concept)
+    - house 1      -> can access     -> global items
+    - house 2      -> can access     -> global items
+    - house 1 and house 2   -> cannot acccess     -> each other items     
+
+
+
+--------- Traditional Way using venv ----------
+COMMANDS
+  - python -m venv .venv            - installation of venv
+  - .venv\Scripts\activate          - activate virtual machine
+  - deactivate                      - deactivate virtual machine
+  - pip install -r requirements.txt - install all listed modules or libraries with specific versions
+
+
+INSTALLATIONS
+  - requirements.txt                 - add here all the modules or library to install
+
+
+
+---------- New Way using UV ----------
+COMMANDS
+
+
+INSTALLATIONS
