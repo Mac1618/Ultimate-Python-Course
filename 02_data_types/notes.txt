@@ -15,5 +15,13 @@
   - means that is NOT changeable
 
 
-3. Commands
+3. Numbers, Booleans and Operators
+  a. Number supports: 
+    - Integers:           - whole Numbers 
+    - Booleans:           - true or false
+    - Real:               - floating/decimal number
+    - Complex Numbers     - mathimatical number e.g. (2 + 3j)
+
+
+Commands
   - python3 <filename> 
