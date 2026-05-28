@@ -22,6 +22,17 @@
     - Real:               - floating/decimal number
     - Complex Numbers     - mathimatical number e.g. (2 + 3j)
 
+  b. Booleans
+    - True or False       - should start with Capital Letter
+
+  c. Operators
+    - **                  - power of
+    - //                  - whole number for division
+
+  d. Logical Operators
+    - and
+    - or
+    - not
 
 Commands
   - python3 <filename> 
