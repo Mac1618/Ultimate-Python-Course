@@ -1,0 +1,19 @@
+1. Object:
+  - consist of 3 things "identity, type, value"
+  - "everything is object in python"
+
+
+2. Mutable and Immutable
+  - use id instead of value to identity who is Mutable and Immutable
+
+  --- a. Mutable ---
+  - means that is changeable
+  - stores all the ID and its value in memory
+
+
+  --- b. Immutable ---
+  - means that is NOT changeable
+
+
+3. Commands
+  - python3 <filename> 

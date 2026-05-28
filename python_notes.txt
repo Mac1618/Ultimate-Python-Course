@@ -8,4 +8,21 @@ PEP 8 - Style Guide for Python code               - PEP 8 or Python Enhancement 
 ZEN                          - pythonic way of writing code
   - python                      - flag
   - import this                 - to see the poem
-  - poem meaningf               - to write code as simple as possible
+  - poem meaning               - to write code as simple as possible
+
+
+
+Data Types
+  Object and Mutability                   - Everything is object in python
+    a. Object
+        - unique identity                
+        - unique type
+        - unique values
+
+    b. Mutable and Immutable
+        - mutable                               - changable
+        - Immutable                             - NOT changable
+
+    c. Rules
+        - check "identity" if changed             - mutable or immutable
+        - never check in "value"                - to check if mutable or immutable

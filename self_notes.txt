@@ -6,3 +6,8 @@ Github
 
   git config --show-origin user.name                - active name
   git config --show-origin user.email               - active email
+
+
+VS Code shortcut keys
+  shift + alt + arrow keys                          - duplicate line of code
+  alt + arrow keys                                  - move line of code
